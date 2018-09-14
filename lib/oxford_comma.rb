@@ -25,3 +25,4 @@ def oxford_comma(array)
   end
 end
 view raw
+end
